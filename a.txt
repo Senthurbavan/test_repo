@@ -1,1 +1,3 @@
 This is dir a
+
+added some extra text
